@@ -5,19 +5,6 @@
 
 ---
 
-## Índice
-1. [Pré-requisitos](#pré-requisitos)
-2. [Arquitetura do Projeto](#arquitetura-do-projeto)
-3. [Configuração do Servidor (Kali Linux)](#-configuração-do-servidor-kali-linux)
-4. [Configuração do Cliente (Windows)](#-configuração-do-cliente-windows)
-5. [Compilação do Executável](#-compilação-do-executável)
-6. [Execução e Testes](#-execução-e-testes)
-7. [Persistência Automática](#-persistência-automática)
-8. [Técnicas de Defesa (Blue Team)](#-técnicas-de-defesa-blue-team)
-9. [Avisos Legais e Éticos](#-avisos-legais-e-éticos)
-
----
-
 ## Pré-requisitos
 
 - **Kali Linux** (ou qualquer distribuição Linux) – servidor.
