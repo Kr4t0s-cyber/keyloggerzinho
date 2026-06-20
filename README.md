@@ -1,4 +1,4 @@
-# Tutorial Final – Keylogger + RAT com Painel Web (Senha Fixa)
+# Keylogger + RAT com Painel Web (Senha Fixa)
 
 **Versão 2.0 – Junho 2026**  
 *Uso exclusivo para fins educacionais em ambientes controlados.*
